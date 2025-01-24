@@ -1,2 +1,2 @@
 # GoWasmTutorial
-a tutorial for comiling Go into WASM (web assembly)
+a tutorial for compiling Go into WASM (web assembly)
